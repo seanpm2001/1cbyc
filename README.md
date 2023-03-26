@@ -1,6 +1,7 @@
 👋 Hi,
 ## I’m Isaac Emmanuel (@1cbyc)
 
+  😹 Someone calls me 'Dad'. Another calls me 'Daddy'. Others call me 'Boss'. <br>
   🌱 I’m currently learning to be great at communicating with people.<br>
   👀 I’m interested in information security, blockchain and financial services.<br>
   💞️ I’m looking to collaborate on all kinds of infosec tasks with startups and government entities.<br>
