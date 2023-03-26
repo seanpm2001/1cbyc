@@ -1,4 +1,4 @@
-- 👋 Hi,
+👋 Hi,
 ## I’m Isaac Emmanuel (@1cbyc)
 
   🌱 I’m currently learning to be great at communicating with people.<br>
