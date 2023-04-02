@@ -14,7 +14,7 @@
   
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=1cbyc&show_icons=true&include_all_commits=true&hide_border=true" alt="Ayotunde's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1cbyc&langs_count=8&layout=compact&hide_border=true" alt="Ayotunde's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=1cbyc&show_icons=true&include_all_commits=true&hide_border=true" alt="Isaac's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1cbyc&langs_count=8&layout=compact&hide_border=true" alt="Isaac's GitHub stats" /> |
 | ------------- | ------------- |
 <hr>
 
