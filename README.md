@@ -8,8 +8,7 @@
   💞️ I’m looking to collaborate on all kinds of infosec tasks with startups and government entities.<br>
   🔭 I now contribute daily to opensource projects (so far: PHP, Javascript, C#, Rust) <br>
   🥋 Ask me about PHP, Java, C# (Rust, Golang, soon)<br>
-  📫 Reach me on [Twitter](https://twitter.com/1cbyc), [LinkedIn](https://linkedin.com/in/isaacnsisong) or [e-mail](mailto:isaacnsisong+github@gmail.com?subject=[GitHub]) <br>
- <!-- 📫 Reach me via email: me@theirdaddy.com || isaacnsisong+github@gmail.com <br>-->
+  📫 Reach me on [Twitter](https://twitter.com/1cbyc), [LinkedIn](https://linkedin.com/in/isaacnsisong) <br>
  <!-- 👀 I even have a blog, see https://theirdaddy.com  -->
   
 
