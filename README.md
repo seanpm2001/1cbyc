@@ -6,7 +6,7 @@
   👀 I’m interested in information security, blockchain and financial services.<br>
   🖥 I built [p2pfi.co](https://alpha.p2pfi.co) (a self-custodial crypto marketplace) with my kid bro.<br>
   💞️ I’m looking to collaborate on all kinds of infosec tasks with startups and government entities.<br>
-  🔭 I now contribute daily to opensource projects (so far: PHP, Javascript, C#, Rust) <br>
+  🔭 I want to contribute daily to opensource projects and StackOverflow (so far: PHP, Javascript, C#, Rust) <br>
   🥋 Ask me about PHP, Java, C# (Rust, Golang, soon)<br>
   📫 Reach me on [Twitter](https://twitter.com/1cbyc), [LinkedIn](https://linkedin.com/in/isaacnsisong) <br>
  <!-- 👀 I even have a blog, see https://theirdaddy.com  -->
