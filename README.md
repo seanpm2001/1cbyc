@@ -10,6 +10,8 @@
   🔭 I want to contribute daily to opensource projects and StackOverflow (so far: PHP, Javascript, C#, Rust) <br>
   🥋 Ask me about PHP, Erlang, Java & C# (prolly Rust, Golang soon enough)<br>
   📫 Reach me on [Twitter](https://twitter.com/1cbyc), [LinkedIn](https://linkedin.com/in/isaacnsisong) <br>
+  🥋 I can fill in the following roles: Fullstack Developer, Backend Developer, Blockchain Developer, DevOps Engineer, Systems Programmer & Technical Lead Architect<br>
+
  <!-- 👀 I even have a blog, see https://theirdaddy.com  -->
   
 
