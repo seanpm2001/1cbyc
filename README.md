@@ -9,7 +9,7 @@
   💞️ I’m looking to collaborate on all kinds of offesensive security, blockchain and web development tasks with startups and government entities.<br>
   🔭 I want to contribute daily to opensource projects and StackOverflow (so far: PHP, Javascript, C#, Rust) <br>
   🥋 Ask me about PHP, Erlang, Java & C# (prolly Rust, Golang soon enough)<br>
-  📫 Reach me on [Twitter](https://twitter.com/1cbyc), [LinkedIn](https://linkedin.com/in/isaacnsisong) <br>
+  📫 Reach me on [Twitter](https://twitter.com/1cbyc), [LinkedIn](https://linkedin.com/in/isaacnsisong) or [Email](mailto:ei@nsisong.com) <br>
   🥋 I can fill in the following roles: Fullstack Developer, Backend Developer, Blockchain Developer, DevOps Engineer, Systems Programmer & Technical Lead Architect<br>
 
  <!-- 👀 I even have a blog, see https://theirdaddy.com  -->
