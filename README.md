@@ -3,7 +3,7 @@
 
   😹 Someone calls me 'Dad'. Another calls me 'Daddy'. Others call me 'Boss'. <br>
   🌱 I’m currently learning to be great at communicating with people.<br>
-  👀 I’m interested in information security, blockchain and financial services.<br>
+  👀 I’m interested in information security, and blockchain technology.<br>
   🖥 I built [p2pfi.co](https://alpha.p2pfi.co) (a self-custodial crypto marketplace) with my kid bro and a few others.<br>
   🖥 I'm building [nidful.com](https://nidful.com) (a bug bounty platform for Nigerians) to satisfy my ego.<br>
   💞️ I’m looking to collaborate on all kinds of offensive security, blockchain and web development tasks with startups and government entities.<br>
