@@ -15,6 +15,7 @@
  <!-- 👀 I even have a blog, see https://theirdaddy.com  -->
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1cbyc&layout=compact)
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=1cbyc&bg_color=c8d4ff&color=0a0a9e&line=134e9e&point=003b40&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <hr>
 
