@@ -12,6 +12,7 @@
   📫 Reach me via [Twitter](https://twitter.com/1cbyc), [LinkedIn](https://linkedin.com/in/isaacnsisong) or [Email](mailto:ei@nsisong.com) <br>
   🥋 If I wanted a Fulltime role, I'm certain I'd perform in the following roles: Fullstack Developer, Backend Developer, Blockchain Developer, DevOps Engineer, Systems Programmer & Technical Lead Architect<br>
 
+<hr>
  <!-- 👀 I even have a blog, see https://theirdaddy.com  -->
 
  <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1cbyc&layout=compact) -->
